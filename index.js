@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Reece's Hangout Server","Helping the community"];
+const statusMessages = ["Watching Reece's Hangout Server","Helping the community","Open a Support Ticket for Support","Need to report a staff member? Open an IA ticket."];
 
 
 let currentIndex = 0;
